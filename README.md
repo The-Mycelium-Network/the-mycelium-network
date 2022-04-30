@@ -1,4 +1,4 @@
-![mycelium network icon made up of three red mushrooms with white dots](https://user-images.githubusercontent.com/10350960/163036734-1c622f64-b411-4acb-8ae5-eac3264605d7.png)
+![mycelium network icon made up of three red mushrooms with white dots](https://user-images.githubusercontent.com/10350960/166117645-03ba5728-27be-4a08-bbfb-81af889ce766.png)
 
 # The Mycelium Network
 
