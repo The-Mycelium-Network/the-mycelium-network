@@ -6,7 +6,7 @@ A Discord server and growing community of early-stage web developers and mentors
 
 [Join the community](https://discord.gg/6MrjtEmDgr)
 
-> Please take note of the following when interacting as part of the mycelium network.
+> Please take note of the following when interacting as part of The Mycelium Network.
 
 ## Expected behaviours
 
