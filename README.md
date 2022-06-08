@@ -2,9 +2,9 @@
 
 # The Mycelium Network
 
-A Discord server for early-stage web developers to learn and share together. The focus of the community is learning how to build performance, accessible experiences for the web. While we will, from time to time, cover common, widely used frameworks, our focus is on the open web platform. This means that we focus on native HTML, CSS, and JavaScript.
+A Discord server and growing community of early-stage web developers and mentors who learn and share together. The focus of the community is learning how to build performant, accessible experiences for the web. While we will, from time to time, cover common, widely used frameworks, our focus is on the open web platform. This means that we focus on native HTML, CSS, and JavaScript.
 
-[Join us](https://discord.gg/6MrjtEmDgr)
+[Join the community](https://discord.gg/6MrjtEmDgr)
 
 > Please take note of the following when interacting as part of the mycelium network.
 
