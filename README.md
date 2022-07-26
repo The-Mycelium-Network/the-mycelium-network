@@ -1,8 +1,13 @@
-![mycelium network icon made up of three red mushrooms with white dots](https://user-images.githubusercontent.com/10350960/166117645-03ba5728-27be-4a08-bbfb-81af889ce766.png)
+
+![Th Mycelium Network-small](https://user-images.githubusercontent.com/10350960/181074435-57ce4f13-35e9-4f34-bd56-ffe4b4a0bfc9.png)
 
 # The Mycelium Network
 
-A Discord server and growing community of early-stage web developers and mentors who learn and share together. The focus of the community is learning how to build performant, accessible experiences for the web. While we will, from time to time, cover common, widely used frameworks, our focus is on the open web platform. This means that we focus on native HTML, CSS, and JavaScript.
+A growing community of early-stage web developers and mentors who learn and share together.
+
+We share a core belief in the opportunities the internet can offer to empower people and communities. When we combine the reach of the web with skills in engineering, design, and compassion for others, we can impact our own lives and those of others.
+
+All you need to join is a curious nature and a passion for learning and sharing what you learn with others.
 
 [Join the community](https://discord.gg/6MrjtEmDgr)
 
