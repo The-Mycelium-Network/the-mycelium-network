@@ -10,6 +10,7 @@ We share a core belief in the opportunities the internet can offer to empower pe
 All you need to join is a curious nature and a passion for learning and sharing what you learn with others.
 
 [Join the community](https://discord.gg/6MrjtEmDgr)
+[Suppport us on Open Collective](https://opencollective.com/the-mycelium-network)
 
 > Please take note of the following when interacting as part of The Mycelium Network.
 
