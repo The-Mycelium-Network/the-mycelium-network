@@ -53,3 +53,5 @@ We follow the Mycelium Network [Code of Conduct](CODE_OF_CONDUCT.md).
 
 - [Learn more about our contributor roles](docs/CONTRIBUTOR_ROLES.md)
 - [Please take a moment to read our reviewers guide](docs/REVIEWING.md)
+- [Our project governance model](docs/GOVERNANCE.md)
+- [Our detailed contribution guidelines](CONTRIBUTING.md)
