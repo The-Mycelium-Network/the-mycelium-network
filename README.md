@@ -1,7 +1,6 @@
+# The Mycelium Network
 
 ![Th Mycelium Network-small](https://user-images.githubusercontent.com/10350960/181074435-57ce4f13-35e9-4f34-bd56-ffe4b4a0bfc9.png)
-
-# The Mycelium Network
 
 A growing community of early-stage web developers and mentors who learn and share together.
 
@@ -41,3 +40,16 @@ All you need to join is a curious nature and a passion for learning and sharing 
   - This includes sexualised comments, jokes or imagery in interactions, communications or presentation materials, as well as inappropriate touching, groping, or sexual advances.
 - **Disruptive Behaviour**
   - Sustained disruption of events, forums, or meetings, including talks and presentations, will not be tolerated.
+
+## License
+
+This project is licensed under [multiple licenses](LICENSES.md).
+
+## Conduct
+
+We follow the Mycelium Network [Code of Conduct](CODE_OF_CONDUCT.md).
+
+### Additonal information
+
+- [Learn more about our contributor roles](docs/CONTRIBUTOR_ROLES.md)
+- [Please take a moment to read our reviewers guide](docs/REVIEWING.md)
