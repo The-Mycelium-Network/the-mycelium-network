@@ -9,9 +9,9 @@ We share a core belief in the opportunities the internet can offer to empower pe
 
 All you need to join is a curious nature and a passion for learning and sharing what you learn with others.
 
-- [Join us on Matrix](https://matrix.to/#/#mycelium-network-lounge:matrix.org)
+- [Join us on Discord](https://discord.gg/yHMTPtV5NH)
+- [Join the community on Slack](https://join.slack.com/t/mechanical-ink-group/shared_invite/zt-22yg9uryr-YiNd2tO1E5qrckQldruWsw)
 - [Join the community group on LinkedIn](https://www.linkedin.com/groups/9500020/)
-- [Suppport us on Open Collective](https://opencollective.com/the-mycelium-network)
 
 > Please take note of the following when interacting as part of The Mycelium Network.
 
@@ -35,7 +35,7 @@ All you need to join is a curious nature and a passion for learning and sharing 
 - **Violence and Threats of Violence**
   - Violence and threats of violence are not acceptable - online or offline.
 - **Personal Attacks**
-  - Conflicts will inevitably arise, but frustration should never turn into a personal attack. It is not okay to insult, demean or belittle others.
+  - Conflicts will inevitably arise, but frustration should never turn into a personal attack. It is not okay to insult, demean, or belittle others.
 - **Derogatory Language**
   - If you’re unsure if a word is derogatory, don’t use it. This also includes repeated subtle and/or indirect discrimination; when asked to stop, stop the behavior in question.
 - **Unwelcome Sexual Attention or Physical Contact**
